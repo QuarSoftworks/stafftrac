@@ -10,7 +10,7 @@
 <script>
 import bar from "../components/bar.vue";
 export default {
-  name: "HelloWorld",
+  name: "HelloWorldd",
 
   data: () => ({
     drawer: true,
